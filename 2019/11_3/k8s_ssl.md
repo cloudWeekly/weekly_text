@@ -30,5 +30,8 @@
 
 
 
+解释一下证书可能遇到的几个文件的含义：
+https://blog.51cto.com/liuzhengwei521/2120535
+
 
 
