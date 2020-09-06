@@ -85,7 +85,7 @@ Entries: 72 Skipped: 0  Found: 72
 
 现在内心有两个想法：
 - 我得知道gc_thresh3这个值怎么算出来的
-- 公司在kernel 3和4运行的都没问题，搞不明白kernel 5为啥又为题
+- 公司在kernel 3和4运行的都没问题，搞不明白kernel 5为啥有问题
 
 
 反正就是所有的矛头都指向的kernel，所以只能硬着头皮去看看kernel相应的代码。
